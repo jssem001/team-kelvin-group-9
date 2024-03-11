@@ -45,6 +45,20 @@ table > tr, th, td {
     border: 1px solid black;
 }
 
+/* button */
+button {
+    background: skyblue;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+button:hover {
+    font-size: 20px;
+}
+
+
 /* details */
 
 .shades {
