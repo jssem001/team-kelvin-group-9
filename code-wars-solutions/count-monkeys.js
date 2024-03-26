@@ -1,4 +1,4 @@
-// count monkeys solution
+// counting monkeys solution
 function monkeyCount(n) {
     // your code here
       let monkeyCount = []
