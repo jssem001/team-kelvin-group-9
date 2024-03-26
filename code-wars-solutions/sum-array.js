@@ -1,4 +1,4 @@
-// Sum Numbers
+// Sum Numbers solution
 function sum (numbers) {
     "use strict";
   let total = 0;
